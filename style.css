@@ -1,0 +1,129 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Poppins';
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: white;
+  background: #1d1d1d;
+  
+}
+
+h1{
+  color: cyan;
+}
+
+header {
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+
+main {
+  border: solid cyan
+  ;
+  padding-left: 2rem;
+  padding-top: 2rem;
+  border-radius: 15px;
+ 
+}
+
+.name {
+  width: 95%;
+  height: 30px;
+  padding-left: 0.6rem;
+  border: solid cyan;
+  background: #1d1d1d;
+  color: white;
+  border-radius: 10px;
+  
+
+  
+}
+
+.email {
+  width: 95%;
+  height: 30px;
+  padding-left: 0.6rem;
+  
+  border: solid cyan;
+  background: #1d1d1d;
+  color: white;
+  border-radius: 10px;
+}
+
+.idade {
+  width: 95%;
+  height: 30px;
+  padding-left: 0.6rem;
+  border: solid cyan;
+  background: #1d1d1d;
+  color: white;
+  border-radius: 10px;
+}
+
+.select {
+  width: 95%;
+  height: 40px;
+  padding-left: 0.6rem;
+  border: solid cyan;
+  background: #1d1d1d;
+  color: white;
+  border-radius: 10px;
+}
+
+.selectsegundo {
+  width: 95%;
+  height: 40px;
+  padding-left: 0.6rem;
+  border: solid cyan;
+  background: #1d1d1d;
+  color: white;
+  border-radius: 10px;
+  
+}
+
+.mensagem {
+  width: 95%;
+  height: 90px;
+  padding-left: 0.6rem;
+  margin-bottom: 10px;
+  border: solid cyan;
+  background: #1d1d1d;
+  color: white;
+  padding-top: 0.6rem;
+  border-radius: 10px;
+}
+
+.button {
+  width: 95%;
+  height: 40px;
+  padding-left: 0.6rem;
+  margin-bottom: 2rem;
+  border: solid cyan;
+  background:  cyan;;
+  color: white;
+  border-radius: 10px;
+  
+}
+
+
+button:hover {
+  background: white;
+  cursor: pointer;
+  color: cyan;
+
+}
+
+span {
+  font-size: 1.2rem;
+}
+
+
+.checkbox {
+  border-radius: 100px; 
+}
